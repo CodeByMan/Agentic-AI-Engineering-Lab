@@ -1,0 +1,9 @@
+[project]
+name = "ai-runtime-lab"
+version = "0.1.0"
+description = "Dependency-free Python demonstrations of reliable AI runtime patterns."
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [{ name = "Muhammad Ali Nawaz" }]
+license = { text = "MIT" }
+dependencies = []
