@@ -11,12 +11,6 @@
 [![Status](https://img.shields.io/badge/Status-Active%20Learning%20Lab-orange?style=flat-square)](#roadmap--progress)
 [![Phases](https://img.shields.io/badge/Phases-14%20%2F%2017-blue?style=flat-square)](#-the-14-phases)
 
-[Philosophy](#-core-philosophy) •
-[Architecture](#-system-architecture) •
-[Phases](#-the-14-phases) •
-[Repository Map](#-repository-map) •
-[Roadmap](#-roadmap--progress)
-
 </div>
 
 ---
@@ -30,8 +24,6 @@ This repository is **not** a framework, and it is **not** a wrapper around an LL
 Every folder here is a self-contained, minimal, runnable proof-of-concept for one architectural concern in agentic AI systems — state control, crash recovery, retries, parallel execution, model routing, edge inference, retrieval, memory, multi-agent orchestration, security, and observability. The code is intentionally small (30–100 lines per concept). The goal is **transferable mental models**, not framework mastery — you should be able to look at any agent framework (LangGraph, Temporal, AutoGen, CrewAI, Restate...) afterward and immediately recognize which of these primitives it is (re)implementing, and what trade-off it made.
 
 This is a personal engineering-education project, structured as a progressive curriculum with runnable reference code at each stop.
-
-Project owner: **Muhammad Ali Nawaz**. Copyright: **Muhammad Ali Nawaz 2026**.
 
 ---
 
@@ -659,15 +651,29 @@ Specific runtimes (GGUF internals, ONNX Runtime specifics, WebGPU, RKNN), Dynami
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 <div align="center">
 
 **Built as a systems-thinking exercise, not a framework.**
 If it saves you from wrapping an LLM in a `while True:` loop and calling it an agent — it did its job.
 
 </div>
+
+---
+
+## 🧑‍💻 Author
+
+**Muhammad Ali Nawaz**  
+AI Developer
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+<p align="center">
+  <b>⭐ If this project helps you, consider starring the repository!</b>
+</p>
+
