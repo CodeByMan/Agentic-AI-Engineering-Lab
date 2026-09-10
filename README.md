@@ -651,24 +651,9 @@ Specific runtimes (GGUF internals, ONNX Runtime specifics, WebGPU, RKNN), Dynami
 
 ---
 
-<div align="center">
-
-**Built as a systems-thinking exercise, not a framework.**
-If it saves you from wrapping an LLM in a `while True:` loop and calling it an agent — it did its job.
-
-</div>
-
----
-
-## 🧑‍💻 Author
-
-**Muhammad Ali Nawaz**  
-AI Developer
-
----
-
 ## 📄 License
 
+Copyright (c) 2026 Muhammad Ali Nawaz
 This project is licensed under the [MIT License](LICENSE).
 
 ---
